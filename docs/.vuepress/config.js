@@ -1,5 +1,4 @@
 module.exports = {
-  base: '/vue-press/',
   title: '🚲 ZYB的 -- VuePress',
   description: 'Just playing around',
   head: [

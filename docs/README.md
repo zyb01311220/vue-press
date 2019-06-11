@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/yl.JPG
+heroImage: /images/logo.jpeg
 actionText: Get Started →
 actionLink: /guide/
 ---

@@ -2,7 +2,7 @@ module.exports = {
   title: '🚲 ZYB的 -- VuePress',
   description: 'Just playing around',
   head: [
-    ['link', { rel: 'icon', href: '/images/logo.jpeg' }]
+    ['link', { rel: 'icon', href: '/images/yl.JPG' }]
   ],
   themeConfig: {
   	repo: 'zyb01311220',// 默认是 false, 设置为 true 来启用，右上角会出现 github 跳转链接
